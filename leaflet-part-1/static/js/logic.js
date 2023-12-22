@@ -1,5 +1,5 @@
 // URL for the data
-const geourl = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson"
+const geourl = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson"
 
 function mapStyle(feature) {
     return {
